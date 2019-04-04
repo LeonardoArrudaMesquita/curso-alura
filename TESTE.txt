@@ -1,1 +1,3 @@
-Olá, mundo !
+Olá, mundo GIT !
+
+Teste modificado para a atividade 8 da aula 2.
